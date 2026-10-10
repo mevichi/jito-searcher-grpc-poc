@@ -1,0 +1,4 @@
+# Keypairs never go in this repo.
+*.json
+__pycache__/
+.venv/
